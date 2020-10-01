@@ -1,0 +1,14 @@
+<?php
+    session_start();
+    header("Refresh:3;url=eng_learning.php");
+?>
+<html>
+<head><title>logout</title></head>
+<body>
+<?php   
+ unset($_SESSION['username']);
+ unset($_SESSION['Id']);
+?>
+    您已登出！即將返回首頁!
+</body>
+</html>

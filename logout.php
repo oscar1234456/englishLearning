@@ -1,0 +1,13 @@
+<?php
+    session_start();
+    header("Refresh:3;url=naviTest.php");
+?>
+<html>
+<head><title>logout</title></head>
+<body>
+<?php   
+ unset($_SESSION['username']);
+?>
+    您已登出！即將返回首頁!
+</body>
+</html>

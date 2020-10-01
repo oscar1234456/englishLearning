@@ -1,0 +1,11 @@
+at|prep|在|110616038_at.png
+book|noun|書|110616038_book.jpg
+glass|noun|玻璃杯|110616038_glass.jpg
+mobile|noun|手機|110616038_mobile.jpg
+music|noun|音樂|110616038_music.png
+noodle|noun|麵|110616038_noodles.jpg
+pencil|noun|鉛筆|110616038_pencil.png
+play|verb|玩樂|110616038_play.png
+slow|adj|慢|110616038_slow.png
+toy|noun|玩具|110616038_toy.jpg
+job|noun|工作|110616038_job.jpg
